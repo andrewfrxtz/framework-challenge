@@ -6,16 +6,18 @@ body {
     color: white;
 }
 
-.headerpic {
-    width: auto;
-    height: auto;
+#headerpic {
+    width: 30%;
+    height: 30%;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
-.img {
-    float: left;
-    width:  100px;
-    height: 100px;
-    background-size: cover;
+.pics {
+    width: 50%;
+    height: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 h1 {
